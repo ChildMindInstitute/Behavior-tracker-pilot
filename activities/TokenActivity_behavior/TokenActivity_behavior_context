@@ -5,6 +5,10 @@
         "token_screen": {
             "@id": "token:token_screen",
             "@type": "@id"
+        },
+        "record_notes": {
+            "@id": "record_notes",
+            "@type": "@id"
         }
     }
 }
