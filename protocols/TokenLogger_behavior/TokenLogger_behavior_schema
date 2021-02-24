@@ -1,14 +1,14 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/ChildMindInstitute/Behavior-tracker-pilot/master/protocols/TokenLogger_behavior/TokenLogger_behavior_context"
+        "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_behavior_applet/master/protocols/TokenLogger_behavior/TokenLogger_behavior_context"
     ],
     "@type": "reproschema:Protocol",
     "@id": "TokenLogger_behavior_schema",
-    "skos:prefLabel": "Behavior Frequency Tracker",
-    "schema:description": "Track behaviors of interest and leave notes about them.",
+    "skos:prefLabel": "TokenLogger Behavior",
+    "schema:description": "Protocol for TokenLogger behavior",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/Behavior-tracker-pilot/master/protocols/TokenLogger_behavior/README.md",
+    "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_behavior_applet/master/protocols/TokenLogger_behavior/README.md",
     "ui": {
         "addProperties": [
             {"variableName": "TokenActivity_behavior_schema",

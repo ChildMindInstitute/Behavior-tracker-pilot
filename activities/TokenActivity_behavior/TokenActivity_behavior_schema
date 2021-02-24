@@ -1,11 +1,11 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/ChildMindInstitute/Behavior-tracker-pilot/master/activities/TokenActivity_behavior/TokenActivity_behavior_context"
+        "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_behavior_applet/master/activities/TokenActivity_behavior/TokenActivity_behavior_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "TokenActivity_behavior_schema",
-    "skos:prefLabel": "Behavior Frequency Tracker Pilot",
-    "schema:description": "Track the frequency of behaviors",
+    "skos:prefLabel": "TokenActivity Behavior Assessment",
+    "schema:description": "TokenActivity behavior assessment schema",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "scoringLogic": {},
@@ -14,15 +14,10 @@
             {"isAbout": "token_screen",
             "variableName": "token_screen",
             "isVis": true
-            },
-            {"isAbout": "record_notes",
-            "variableName": "record_notes",
-            "isVis": true
             }
         ],
         "order": [
-            "token_screen",
-            "record_notes"
+            "token_screen"
         ],
         "shuffle": false
     }
