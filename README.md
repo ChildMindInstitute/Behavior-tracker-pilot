@@ -1,2 +1,3 @@
 # Behavior-tracker-pilot
-Example behavior tracking applet for MindLogger pilot.
+
+Images used in this applet are hosted here: https://github.com/ChildMindInstitute/tokenlogger-images 
