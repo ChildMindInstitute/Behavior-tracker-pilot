@@ -7,7 +7,7 @@
             "@type": "@id"
         },
         "record_notes": {
-            "@id": "record_notes",
+            "@id": "token:record_notes",
             "@type": "@id"
         }
     }
