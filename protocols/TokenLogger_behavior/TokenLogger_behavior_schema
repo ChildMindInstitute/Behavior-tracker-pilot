@@ -6,6 +6,7 @@
     "@id": "TokenLogger_behavior_schema",
     "skos:prefLabel": "Behavior Frequency Tracker",
     "schema:description": "Track behaviors of interest and leave notes about them.",
+    "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/coin.png",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/Behavior-tracker-pilot/master/protocols/TokenLogger_behavior/README.md",
